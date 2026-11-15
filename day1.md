@@ -3,6 +3,7 @@
 
 test
 test2
+test3
 
 
 ## installing ocaml and friends
