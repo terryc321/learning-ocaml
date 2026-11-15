@@ -2,6 +2,7 @@
 # Day 1 ocaml learning
 
 test
+test2
 
 
 ## installing ocaml and friends
